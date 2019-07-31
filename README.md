@@ -1,2 +1,2 @@
 # ProjectEagleConsumer
-Kafka Consumer to consumer messages from Producer
+Kafka Consumer to consume messages from Producer
